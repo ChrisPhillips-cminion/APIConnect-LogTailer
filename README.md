@@ -48,7 +48,7 @@ For a complete list of files please see the end of this READ ME.
 
 
 
-##Files that can be selected
+## Files that can be selected
 ```
 '/var/log/messages',
  '/var/log/cmc.out',
