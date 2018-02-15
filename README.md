@@ -1,4 +1,4 @@
-#API Connect Log Tailer
+# API Connect Log Tailer
 
 When working on API Connect infrastructure issues it is often useful to the log files stored locally without needing to download everything.
 
@@ -10,9 +10,15 @@ We created this script while debugging split brain scenario.
 
 This is provided with no warranty. Use at your own risk!
 
-#To Run
+# To install
 
-```node index.js``
+* Extract the git repository
+* Run the following command to install dependencies
+```npm i```
+
+# To Run
+
+``` node index.js ```
 
 This then asks the following questions
 
