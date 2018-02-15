@@ -217,7 +217,7 @@ inquirer.prompt(questions).then(answers => {
     // console.log(JSON.stringify(answers, null, '  '));
 
     outPutDir = answers.out;
-    console.log(answers.files);
+    
     var config = {
         host: answers.server,
         port: 22,
